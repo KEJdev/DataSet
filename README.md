@@ -1,3 +1,3 @@
 # DataSet
-SQL/R/PYTHON/PLSQL/ML 등 기본적인 데이터 자료 모음입니다. 
+SQL/R/PYTHON/PLSQL/ML 등 기본적인 데이터 자료 모음입니다.   
 데이터에 대한 자세한 내용이나, 예제가 궁금하시다면 블로그를 참고 해주세요.
